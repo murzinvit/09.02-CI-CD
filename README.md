@@ -10,6 +10,9 @@
 На Debian 10 + Docker 20.10.6 - работает.</br>
 [Maven-metadata.xml](https://github.com/murzinvit/09.02-CI-CD/blob/e1bf567b91e3defa4a93ca47d90cf817b5a05ac3/maven-metadata.xml)</br>
 </br>
+#### Работа с maven:
+[pom.xml](https://github.com/murzinvit/09.02-CI-CD/blob/a323d6c91127bd7f7e032089fd0a5d229a33380a/pom.xml)</br>
+</br>
 #### sonarscanner result:</br>   
 ![screen](https://github.com/murzinvit/screen/blob/1f99feec1840c70c0dc50f596ffc7e189f1efe75/Hooray_Ho_Issue.jpg) </br>
 ![screen](https://github.com/murzinvit/screen/blob/bd80d33e9dbd00fb269ebfdf7d32850ec8f04be0/Maven_build.png) </br>
