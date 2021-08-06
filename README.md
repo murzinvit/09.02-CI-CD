@@ -2,17 +2,17 @@
 ====================================</br>
 В fail.py, в def increment(index):, путалось имя локальной и глобальной переменной, исправил имя переменной и добавил сложение с глобальной.</br>
 Далее убрал - pass, т.к нигде не используется. После исправления стало - No Issues. Hooray! </br>
-`def increment(i):
-    index = i + 1
-    return index
-def get_square(numb):
-    return numb*numb
-def print_numb(numb):
-    print("Number is {}".format(numb))
-
-index = 0
-while (index < 10):
-    index = increment(index)
+`def increment(i):</br>
+    index = i + 1</br>
+    return index</br>
+def get_square(numb):</br>
+    return numb*numb</br>
+def print_numb(numb):</br>
+    print("Number is {}".format(numb))</br>
+</br>
+index = 0</br>
+while (index < 10):</br>
+    index = increment(index)</br>
     print(get_square(index))`</br>
 
 
