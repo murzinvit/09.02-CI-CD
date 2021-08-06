@@ -11,8 +11,8 @@
 [Maven-metadata.xml](https://github.com/murzinvit/09.02-CI-CD/blob/e1bf567b91e3defa4a93ca47d90cf817b5a05ac3/maven-metadata.xml)</br>
 </br>
 #### Работа с maven:
-В Debian 10 ставться, но не работает java из apt, удалось поставить только из [openjdk.tar.gz](https://openjdk.java.net/) + PATH=$PATH:/opt/java/bin</br>
-[pom.xml](https://github.com/murzinvit/09.02-CI-CD/blob/a323d6c91127bd7f7e032089fd0a5d229a33380a/pom.xml)</br>
+В Debian 10 ставиться, но не работает java из apt, удалось поставить только из [openjdk](https://openjdk.java.net/) + export PATH=$PATH:/opt/java/bin</br>
+Конфиг mvn: [pom.xml](https://github.com/murzinvit/09.02-CI-CD/blob/a323d6c91127bd7f7e032089fd0a5d229a33380a/pom.xml)</br>
 </br>
 #### Результат работы sonarscanner:</br>   
 ![screen](https://github.com/murzinvit/screen/blob/1f99feec1840c70c0dc50f596ffc7e189f1efe75/Hooray_Ho_Issue.jpg) </br>
