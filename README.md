@@ -5,7 +5,7 @@
 Далее убрал - pass, т.к нигде не используется. После исправления стало - No Issues. Hooray! </br>
 Скрипт: [fail.py](https://github.com/murzinvit/09.02-CI-CD/blob/e1bf567b91e3defa4a93ca47d90cf817b5a05ac3/maven-metadata.xml)</br>
 </br>
-##### Работа с sonatype/nexus3: </br>
+#### Работа с sonatype/nexus3: </br>
 Не понятно почему контейнер с sonatype/nexus3:latest не запускается на Ubuntu 20.04 LTS, 6Gb ОЗУ. Просто падает и логи в nexus-data/logs не пишет.</br>
 На Debian 10 + Docker 20.10.6 - работает.</br>
 [Maven-metadata.xml](https://github.com/murzinvit/09.02-CI-CD/blob/e1bf567b91e3defa4a93ca47d90cf817b5a05ac3/maven-metadata.xml)</br>
