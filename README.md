@@ -15,5 +15,5 @@
 `   index = increment(index)`</br>
 `   print(get_square(index))`</br>
 
-### successed:   
+#### sonarscanner result:   
 ![screen](https://github.com/murzinvit/screen/blob/1f99feec1840c70c0dc50f596ffc7e189f1efe75/Hooray_Ho_Issue.jpg) </br>
